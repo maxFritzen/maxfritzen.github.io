@@ -22,7 +22,7 @@
     height: 15rem;
     // border: 1px solid black;
     // box-shadow: 1px 0px 2px 1px rgba(0,0,0,0.75);
-    margin: .2rem auto;
+    margin: .2rem;
     opacity: .8;
     grid-column: min-content;
 
@@ -75,6 +75,14 @@
     }
     &-ludvig {
       background-image: url('../img/ludvig.png');
+      background-position: center;
+    }
+    &-pikoru {
+      background-image: url('../img/pikoru.png');
+      background-position: center;
+    }
+    &-excel {
+      background-image: url('../img/excel.png');
       background-position: center;
     }
 

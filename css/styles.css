@@ -516,7 +516,7 @@ h1, h2, h3, h4, h5 {
   justify-content: center;
   align-items: center;
   height: 15rem;
-  margin: .2rem auto;
+  margin: .2rem;
   opacity: .8;
   grid-column: min-content; }
   @media only screen and (min-width: 62.5em) {
@@ -539,6 +539,12 @@ h1, h2, h3, h4, h5 {
     background-position: center; }
   .work__item-ludvig {
     background-image: url("../img/ludvig.png");
+    background-position: center; }
+  .work__item-pikoru {
+    background-image: url("../img/pikoru.png");
+    background-position: center; }
+  .work__item-excel {
+    background-image: url("../img/excel.png");
     background-position: center; }
   .work__item:hover {
     opacity: 1;
